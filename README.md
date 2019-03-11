@@ -27,5 +27,6 @@ View[Activity]创建Presenter对象，对Presenter里面的方法进行调用
 从代码层面上面时完全可以删除的，但是不建议这么做，View不会直接操作Model，Presenter将View和Model分离得更加彻底，避免View和Model混淆得情况  
 
 # 效果展示  
+![image](https://github.com/DanielZhanggc/ChoiceFrame/blob/master/show.png)
 
 # APK下载  
