@@ -30,3 +30,4 @@ View[Activity]创建Presenter对象，对Presenter里面的方法进行调用
 ![image](https://github.com/DanielZhanggc/ChoiceFrame/blob/master/show.png)
 
 # APK下载  
+![image](https://github.com/DanielZhanggc/ChoiceFrame/blob/master/apk_download.png)
